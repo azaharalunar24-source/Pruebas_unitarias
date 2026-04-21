@@ -1,0 +1,24 @@
+{
+  "name": "pruebas_unitarias",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+          },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/azaharalunar24/pruebas_unitarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://gitlab.com/azaharalunar24/pruebas_unitarias/issues"
+  },
+  "homepage": "https://gitlab.com/azaharalunar24/pruebas_unitarias#readme",
+  "dependencies": {
+    "jest": "^30.3.0"
+  }
+}
